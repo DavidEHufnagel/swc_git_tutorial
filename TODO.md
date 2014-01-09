@@ -1,2 +1,2 @@
 1. Learn Git
-2. Learn Github
+2. LeHHarn Github
